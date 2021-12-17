@@ -1,0 +1,33 @@
+.mainContainer {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(214, 190, 233);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.uList {
+    height: auto;
+}
+
+.addedContainer {
+    width: 40%;
+    height: 10%;
+    background-color: rgb(86, 56, 110);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.ulContainer {
+    width: 40%;
+}
+
+.todoText {
+    width: 20%;
+}
+
+
+/*  border: 2px solid black; */

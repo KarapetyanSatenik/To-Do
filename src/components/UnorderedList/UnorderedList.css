@@ -1,0 +1,16 @@
+.listLine {
+    background-color: rgb(164, 124, 196);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+    margin-bottom: 2%;
+}
+
+.changingButton {
+    padding: 1% 2%;
+}
+
+.changingButton:hover {
+    background-color: rgb(214, 190, 233);
+}

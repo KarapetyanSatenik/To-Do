@@ -31,6 +31,7 @@ export function ListItem({ el, i, deleteList, editList }) {
           Delete
         </button>
       )}
+
       {onEdit ? (
         <button
           className="changingButton"
